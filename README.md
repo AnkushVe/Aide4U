@@ -6,6 +6,6 @@
 >To provide career path recommendations, a deep learning model called Friends AI was developed. <br />
 >It takes both technical and personality attributes as input parameters and suggests a career path based on the experience of a senior student from the college. <br />
 >Additionally, Aide4U has other features to ensure the overall grooming of the college students. <br />
->Ultimately, this research and ABES4U will help them become industry-ready by the time they graduate. <br />
+>Ultimately, this research and Aide4U will help them become industry-ready by the time they graduate. <br />
 >It is suggested to implement this approach for core branches that are not related to computer science as well. <br />
 >Hence, Aide4U will help students to achieve more and perform better in their careers.
