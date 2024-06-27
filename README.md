@@ -1,3 +1,4 @@
+# Idea
 *The sole purpose of this project is to develop a method for providing personalized career guidance to a college fresher.<br />
 *A web application called Aide4U has been developed . <br />
 *It provides comprehensive career guidance to freshers who have a lot to explore but very limited time.<br />
