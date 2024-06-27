@@ -37,6 +37,13 @@
  &nbsp; 
 
 
+
+
+
 <img width="1440" alt="Screenshot 2024-06-27 at 8 49 11 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/624289cb-f865-4639-a3cf-afa1df08c89a">
+ &nbsp; 
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 49 18 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/ef223cdd-cc15-44fa-b385-16ccd7a50e0c">
+
 
 
