@@ -1,0 +1,21 @@
+	{% extends 'base.html' %} {% load static %}
+
+ {% block mainbody %}
+ <div class="postcontainer"> 
+   <h2> Hello, {{ request.user.username }}. Here You can use Friends' AI model. Please fill below form. </h2>
+ <main>
+	<form action="" method="post" novalidate>
+{% csrf_token %}
+{{ form.as_p}}
+
+<input id="SubmitForm" type="submit" value="Submit">
+
+
+{% if Recomm %}
+<p>Our Recommendation is : {{ Recomm }} Try it out. </p>
+
+{% endif %}
+</form>
+	</main>
+	</div>
+{% endblock %} 

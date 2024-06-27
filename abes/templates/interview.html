@@ -1,0 +1,24 @@
+{% extends 'base.html' %} {% load static %}
+
+ {% block mainbody %} 
+	
+		<div class="postcontainer"> 
+			{% block content %}
+    <h2>Welcome to the Interview Archives , {{request.user.username}}</h2>
+    <ul>
+        {% for blog in object_list %}
+            <div class="blog">
+           <span class="blogtitle">  <li><a href="{% url 'interviewdetail' blog.pk %}" >{{ blog.title }}</a></li></span>
+            <p>{{ blog.content|safe|truncatechars:50}}</p>
+            
+             <span class="author">by {{ blog.author }}</span>
+             <br>
+             <span class="readfull"><a href="{% url 'interviewdetail' blog.pk %}" > Read More... </a></span>
+              <div class="read"></div>
+           </div>
+             
+        {% endfor %}
+    </ul>
+{% endblock %}</div>
+	
+{% endblock %} 
