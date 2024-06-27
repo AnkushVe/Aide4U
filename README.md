@@ -13,3 +13,30 @@
 
 
 # Images Of Application
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 46 07 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/69c47607-c5bf-4cf2-91c7-9a32a9f5b063">
+ &nbsp; 
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 46 19 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/aca8da20-51cc-4c34-8656-5e09e491061a">
+ &nbsp; 
+
+<img width="1440" alt="Screenshot 2024-06-27 at 9 15 48 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/f72d19f6-2185-47d1-8dc7-4c513cb335c1">
+ &nbsp; 
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 46 37 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/39c10cad-0879-4406-9d54-3e4cae2cea61">
+ &nbsp; 
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 48 53 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/697332b7-9abf-464f-8b23-c5f6adf6f13b">
+ &nbsp; 
+
+
+
+
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 49 05 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/2becddf6-f954-4a2f-a63d-a1c952a75ee6">
+ &nbsp; 
+
+
+<img width="1440" alt="Screenshot 2024-06-27 at 8 49 11 AM" src="https://github.com/sinhaaarushi/Aide4U/assets/127336032/624289cb-f865-4639-a3cf-afa1df08c89a">
+
+
